@@ -13,11 +13,16 @@
 Uma reconstrução fiel e expandida do clássico "Pale Luna", focada em imersão via terminal e horror psicológico textual.
 
 ### 📥 Instalação
-1. Acesse a página oficial no **[itch.io](https://palelunadev.itch.io/)**;
+1. Acesse a página oficial no **[itch.io](https://palelunadev.itch.io/PALE-LUNA)**;
 2. Localize a versão mais recente na seção de downloads;
 3. Escolha entre o pacote portátil (`.zip`) ou o instalador oficial;
 4. Instale ou extraia o conteúdo;
 5. Execute o protocolo de inicialização.
+
+### 📂 Sistemas Relacionados
+> **[ LIGHT ]** — Se você sobreviveu à floresta, tente operar o subsistema de comunicação de 1999. Recupere os dados do incidente LUX-4 antes que a conexão caia.
+> 
+> **Acesse o Terminal:** [palelunadev.itch.io/LIGHT](https://palelunadev.itch.io/LIGHT)
 
 ---
 
@@ -27,11 +32,16 @@ Uma reconstrução fiel e expandida do clássico "Pale Luna", focada em imersão
 A faithful and expanded reconstruction of the classic "Pale Luna," focusing on terminal immersion and textual psychological horror.
 
 ### 📥 Installation
-1. Access the official **[itch.io](https://palelunadev.itch.io/)** page;
+1. Access the official **[itch.io](https://palelunadev.itch.io/PALE-LUNA)** page;
 2. Navigate to the latest version in the download section;
 3. Choose between the portable package (`.zip`) or the official installer;
 4. Install or extract the game content;
 5. Execute the boot protocol.
+
+### 📂 Related Systems
+> **[ LIGHT ]** — If you survived the forest, try operating the 1999 communication subsystem. Recover the LUX-4 incident data before the connection is severed.
+> 
+> **Access the Terminal:** [palelunadev.itch.io/LIGHT](https://palelunadev.itch.io/LIGHT)
 
 ---
 
