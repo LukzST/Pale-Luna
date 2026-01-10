@@ -1,4 +1,4 @@
-# 🌙 Pale Luna: Echoes Of The Night
+# 🌙 Pale Luna
 ![System_Status](https://img.shields.io/badge/SYSTEM-ENCRYPTED-red)
 ![Developer](https://img.shields.io/badge/DEV-PALE_LUNA_DEV-black)
 
