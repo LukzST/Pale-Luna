@@ -1,28 +1,52 @@
-# Pale Luna: Echoes Of The Night
-![Pale_Luna](a.png)
+# 🌙 Pale Luna: Echoes Of The Night
+![System_Status](https://img.shields.io/badge/SYSTEM-ENCRYPTED-red)
+![Developer](https://img.shields.io/badge/DEV-PALE_LUNA_DEV-black)
 
-### Brazilian Portuguese:
-Prepare-se para reviver o terror de Pale Luna em uma nova versão do JavaScript!
+> **"The gold is at the end of the path."**
+> Prepare-se para reviver o terror de Pale Luna em uma arquitetura moderna baseada em JavaScript.
 
-### Instalação
+---
 
-- Acesse o itch.io;
-- Vá na ultima versão mostrada nas opções de download;
-- Escolha a sua opção (.zip ou installer);
-- Instale ou extraia o o jogo;
-- Pronto.
+## 🇧🇷 Português (BR)
 
-### Pale Luna DEV.
+### 📝 Descrição
+Uma reconstrução fiel e expandida do clássico "Pale Luna", focada em imersão via terminal e horror psicológico textual.
 
-## English:
-Get ready to relive the terror of Pale Luna in a new version of JavaScript!
+### 📥 Instalação
+1. Acesse a página oficial no **[itch.io](https://palelunadev.itch.io/)**;
+2. Localize a versão mais recente na seção de downloads;
+3. Escolha entre o pacote portátil (`.zip`) ou o instalador oficial;
+4. Instale ou extraia o conteúdo;
+5. Execute o protocolo de inicialização.
 
-### Installation
+---
 
-- Access itch.io;
-- Select the latest version shown in the download options;
-- Choose your option (.zip or installer);
-- Install or extract the game;
-- Done.
+## 🇺🇸 English
 
-### Pale Luna DEV.
+### 📝 Description
+A faithful and expanded reconstruction of the classic "Pale Luna," focusing on terminal immersion and textual psychological horror.
+
+### 📥 Installation
+1. Access the official **[itch.io](https://palelunadev.itch.io/)** page;
+2. Navigate to the latest version in the download section;
+3. Choose between the portable package (`.zip`) or the official installer;
+4. Install or extract the game content;
+5. Execute the boot protocol.
+
+---
+
+## ⌨️ Operator Commands
+| Key | Function |
+| :--- | :--- |
+| `Arrows` | Movement / Navigation |
+| `Enter` | Confirm / Execute |
+| `ESC` | Abort Session |
+
+---
+
+### 🛡️ Pale Luna DEV.
+**LOG_ID:** PALE_LUNA_RECONSTRUCTION  
+**KERNEL:** JAVASCRIPT / NODE.JS  
+**STATUS:** [STABLE]
+
+> *Caution: This system contains data that may be disturbing to some operators.*
