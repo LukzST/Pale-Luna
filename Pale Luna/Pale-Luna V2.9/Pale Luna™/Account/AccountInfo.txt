@@ -1,0 +1,3 @@
+[NOME]: Lukz
+[SENHA]: Lukz
+[IDIOMA]: Português (BR) 
