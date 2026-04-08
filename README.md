@@ -1,62 +1,48 @@
-# 🌙 Pale Luna
-![System_Status](https://img.shields.io/badge/SYSTEM-ENCRYPTED-red)
-![Developer](https://img.shields.io/badge/DEV-PALE_LUNA_DEV-black)
+<!--
+      - This Source Code Form is subject to the terms of the Mozilla Public
+      - License, v. 2.0. If a copy of the MPL was not distributed with this
+      - file, You can obtain one at http://mozilla.org/MPL/2.0/.
+      -->
+   <!-- TODO: Get a job -->
+   <img src="icon.png" width="100px" align="left">
+   
+   ### `Pale Luna`
+   
+   ![Status](https://img.shields.io/badge/STATUS-TERMINATED-green)
+   ![Version](https://img.shields.io/badge/VERSION-4.5-gold)
+   ![OS](https://img.shields.io/badge/OS-TERMINAL_SUBSYSTEM-red)
+   
+   A faithful and expanded reconstruction of the classic "Pale Luna," focusing on terminal immersion and textual psychological horror.
+   
+   <div flex="true">
+     <a href="https://lukzxdd.itch.io/Pale-Luna">
+       Download
+     </a>
+     •
+     <a href="https://lukzst.github.io">
+       Website
+     </a>
+     •
+     <a href="https://lukzxdd.itch.io/pale-luna/devlog">
+       Release Notes
+     </a>
+   </div>
+   
+   ### Dependency Versions
+   
+   - [`Release`](https://github.com/lukzst/Pale-luna/releases/latest/) - Is currently built using Node.js version `23`! 
+   
+   ### Contributing
+   
+   If you'd like to report a bug, please do so on our [GitHub Issues page](https://github.com/lukzst/Pale-Luna/issues/new/choose)
 
-> **"The gold is at the end of the path."**
-> Prepare-se para reviver o terror de Pale Luna em uma arquitetura moderna baseada em JavaScript.
-
----
-
-## 🇧🇷 Português (BR)
-
-### 📝 Descrição
-Uma reconstrução fiel e expandida do clássico "Pale Luna", focada em imersão via terminal e horror psicológico textual.
-
-### 📥 Instalação
-1. Acesse a página oficial no **[itch.io](https://palelunadev.itch.io/PALE-LUNA)**;
-2. Localize a versão mais recente na seção de downloads;
-3. Escolha entre o pacote portátil (`.zip`) ou o instalador oficial;
-4. Instale ou extraia o conteúdo;
-5. Execute o protocolo de inicialização.
-
-### 📂 Sistemas Relacionados
-> **[ LIGHT ]** — Se você sobreviveu à floresta, tente operar o subsistema de comunicação de 1999. Recupere os dados do incidente LUX-4 antes que a conexão caia.
-> 
-> **Acesse o Terminal:** [palelunadev.itch.io/LIGHT](https://palelunadev.itch.io/LIGHT)
-
----
-
-## 🇺🇸 English
-
-### 📝 Description
-A faithful and expanded reconstruction of the classic "Pale Luna," focusing on terminal immersion and textual psychological horror.
-
-### 📥 Installation
-1. Access the official **[itch.io](https://palelunadev.itch.io/PALE-LUNA)** page;
-2. Navigate to the latest version in the download section;
-3. Choose between the portable package (`.zip`) or the official installer;
-4. Install or extract the game content;
-5. Execute the boot protocol.
-
-### 📂 Related Systems
-> **[ LIGHT ]** — If you survived the forest, try operating the 1999 communication subsystem. Recover the LUX-4 incident data before the connection is severed.
-> 
-> **Access the Terminal:** [palelunadev.itch.io/LIGHT](https://palelunadev.itch.io/LIGHT)
-
----
-
-## ⌨️ Operator Commands
-| Key | Function |
-| :--- | :--- |
-| `Arrows` | Movement / Navigation |
-| `Enter` | Confirm / Execute |
-| `ESC` | Abort Session |
-
----
-
-### 🛡️ Pale Luna DEV.
-**LOG_ID:** PALE_LUNA_RECONSTRUCTION  
-**KERNEL:** JAVASCRIPT / NODE.JS  
-**STATUS:** [STABLE]
-
-> *Caution: This system contains data that may be disturbing to some operators.*
+   ### Prerequisites
+   * [Node.js](https://nodejs.org/) (Version 16 or higher recommended)
+   * [Windows 10](https://www.microsoft.com/pt-br/software-download/windows10) (Version 20h2 or higher)
+   
+   
+   ### Boot Protocol
+   1. Clone the repository:
+      ```bash
+      git clone https://github.com/LukzST/Pale-luna.git
+   
