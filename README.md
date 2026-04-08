@@ -8,7 +8,7 @@
    
    ### `Pale Luna`
    
-   ![Status](https://img.shields.io/badge/STATUS-TERMINATED-green)
+   ![Status](https://img.shields.io/badge/STATUS-TERMINATED-red)
    ![Version](https://img.shields.io/badge/VERSION-4.5-gold)
    ![OS](https://img.shields.io/badge/OS-TERMINAL_SUBSYSTEM-red)
    
