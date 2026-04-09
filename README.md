@@ -9,7 +9,7 @@
    ### `Pale Luna`
    
    ![Status](https://img.shields.io/badge/STATUS-TERMINATED-red)
-   ![Version](https://img.shields.io/badge/VERSION-4.5-gold)
+   ![Version](https://img.shields.io/badge/VERSION-2.08-gold)
    ![OS](https://img.shields.io/badge/OS-TERMINAL_SUBSYSTEM-red)
    
    A faithful and expanded reconstruction of the classic "Pale Luna," focusing on terminal immersion and textual psychological horror.
